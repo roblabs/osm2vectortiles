@@ -37,11 +37,6 @@ tileserver-gl-light export/tiles.mbtiles
 
 http://localhost:8080/styles/bright-v9/?vector#6/41.7144/-71.3717
 
-### Demo 
+### Demo
 
-<iframe id="youtube-iframe"
-        width="640" height="360"
-        src="https://www.youtube.com/embed/9v05n5H_EgA?enablejsapi=1&origin=http://roblabs.com"
-        frameborder="0"
-        style="border: solid 4px #3399ff"
-></iframe>
+https://www.youtube.com/watch?v=9v05n5H_EgA
