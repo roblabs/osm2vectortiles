@@ -53,7 +53,8 @@ http://localhost:8080/data/osm2vectortiles/#9.43/41.7353/-71.5263
 
 ### Demo
 
-![[Rhode Island Demo](https://img.youtube.com/vi/9v05n5H_EgA/0.jpg)](https://www.youtube.com/watch?v=9v05n5H_EgA)
+[![Rhode Island Demo](https://img.youtube.com/vi/9v05n5H_EgA/0.jpg)]
+  (https://www.youtube.com/watch?v=9v05n5H_EgA)
 
 
 ### Update the SQL in the container `import-sql`
